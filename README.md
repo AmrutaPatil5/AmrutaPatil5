@@ -5,6 +5,7 @@
 - 📫 How to reach me patilamruta340@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: ...
+  <br>
 Author - Amruta
 <!---
 AmrutaPatil5/AmrutaPatil5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
